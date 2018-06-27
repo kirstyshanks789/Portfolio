@@ -5,15 +5,14 @@ border-color: white}
 
 	a{color:white;}
 
-	head {color:white;}
-
 	body
 
 	{padding:20px;
 	background-color: black;
 	font-family: 'Crimson Text', serif;}
 
-	nav{padding-left:0px;
+	nav
+	{padding-left:0px;
 	padding-right:10px;
 	padding-top:10px;
 	padding-bottom:10px;
@@ -23,6 +22,7 @@ border-color: white}
 
 	h1{
 	font-size:50px;
+	color:white;
 	margin:5px
 	padding-left:0px;
 	padding-top:10px;
