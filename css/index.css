@@ -1,9 +1,11 @@
-.border{border-radius:25px; 
-	border:5px solid;
+.border{border: 2px solid;
 border-color: white}
 .fontcolourwhite{font-style:white;}
 
-	a{color:white;}
+
+	a {color:white;}
+
+	a:hover {color:green;}
 
 	body
 
@@ -31,13 +33,16 @@ border-color: white}
 	}
 
 	h2{
-	color: white;}
+	color: white;
+	text-decoration:overline underline;}
 
 	h3
-	{color:white;}
+	{color:white;
+	text-decoration:overline underline;}
 
 	p
-	{color:white;}
+	{color:white;
+	text-decoration:overline underline;}
 
 	ul
 	{color:white;}
